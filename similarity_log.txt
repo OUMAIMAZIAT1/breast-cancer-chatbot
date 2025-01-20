@@ -1,0 +1,337 @@
+2025-01-19 21:35:44 - INFO - User Query: What are the symptoms of breast cancer?
+2025-01-19 21:35:44 - INFO - Response 1: Hello Oumaima, the symptoms of breast cancer can vary, but some common signs to look out for include:
+
+1. A lump or thickening in the breast or underarm area.
+2. Changes in the size, shape, or appearance of the breast.
+3. Nipple changes, such as inversion, discharge, or pain.
+4. Skin changes on the breast, such as redness, dimpling, or puckering.
+5. Persistent breast or nipple pain.
+6. Swelling in the armpit or around the collarbone.
+
+It's important to note that these symptoms can also be caused by conditions other than breast cancer, but if you notice any changes or have concerns, it's best to consult with a healthcare provider for further evaluation. Early detection is key in successfully treating breast cancer.
+2025-01-19 21:35:44 - INFO - Cosine Similarity: 0.9142
+2025-01-19 21:35:44 - INFO - Response 2: Hello Oumaima, I understand your concern. The symptoms of breast cancer can vary, but common signs to look out for include a lump or thickening in the breast or underarm, changes in the size, shape, or appearance of the breast, nipple changes such as inversion, discharge, or pain, skin changes like redness, dimpling, or puckering, and persistent breast or nipple pain. It's important to note that these symptoms can also be caused by conditions other than breast cancer, but if you notice any changes, it's best to consult a healthcare provider for further evaluation. Regular breast self-exams and mammograms can help with early detection and treatment.
+2025-01-19 21:35:44 - INFO - Cosine Similarity: 0.9030
+2025-01-19 21:35:44 - INFO - Response 3: Hello Oumaima, I'm here to help you. 
+
+Common symptoms of breast cancer include:
+
+- A lump or thickening in the breast or underarm
+- Changes in the size, shape, or appearance of the breast
+- Skin changes on the breast, such as dimpling, redness, or puckering
+- Nipple changes, such as inversion, discharge, or scaling
+- Pain in the breast or nipple area
+
+It's important to note that not all lumps or changes in the breast are cancerous, but it's crucial to consult a healthcare provider if you notice any unusual changes. Regular breast self-exams and mammograms are also essential for early detection. If you have any concerns or questions, please feel free to ask.
+2025-01-19 21:35:44 - INFO - Cosine Similarity: 0.9015
+2025-01-19 21:35:44 - INFO - Best Response: Hello Oumaima, the symptoms of breast cancer can vary, but some common signs to look out for include:
+
+1. A lump or thickening in the breast or underarm area.
+2. Changes in the size, shape, or appearance of the breast.
+3. Nipple changes, such as inversion, discharge, or pain.
+4. Skin changes on the breast, such as redness, dimpling, or puckering.
+5. Persistent breast or nipple pain.
+6. Swelling in the armpit or around the collarbone.
+
+It's important to note that these symptoms can also be caused by conditions other than breast cancer, but if you notice any changes or have concerns, it's best to consult with a healthcare provider for further evaluation. Early detection is key in successfully treating breast cancer.
+2025-01-19 21:35:44 - INFO - Best Similarity Score: 0.9142
+2025-01-19 21:35:53 - INFO - User Query: How can I reduce my risk of breast cancer?
+2025-01-19 21:35:53 - INFO - Response 1: There are several lifestyle changes you can make to help reduce your risk of breast cancer:
+
+1. Maintain a healthy weight: Being overweight or obese can increase your risk of breast cancer, especially after menopause. Aim to achieve and maintain a healthy weight through a balanced diet and regular exercise.
+
+2. Stay physically active: Engaging in regular physical activity can help reduce your risk of breast cancer. Aim for at least 150 minutes of moderate-intensity exercise each week.
+
+3. Limit alcohol consumption: Alcohol consumption has been linked to an increased risk of breast cancer. If you choose to drink, limit your alcohol intake to no more than one drink per day.
+
+4. Quit smoking: Smoking is associated with a higher risk of breast cancer, particularly in premenopausal women. Quitting smoking can help lower your risk.
+
+5. Breastfeed, if possible: Breastfeeding has been shown to have a protective effect against breast cancer. If you are able to breastfeed, doing so may help reduce your risk.
+
+6. Get regular physical exams and mammograms: Regular breast screenings can help detect breast cancer at an early stage when it is most treatable. Talk to your healthcare provider about the appropriate screening schedule for you based on your individual risk factors.
+
+Remember, while these lifestyle changes can help reduce your risk of breast cancer, they do not guarantee prevention. It's important to discuss your individual risk factors and screening options with your healthcare provider.
+2025-01-19 21:35:53 - INFO - Cosine Similarity: 0.9018
+2025-01-19 21:35:53 - INFO - Response 2: There are several ways to reduce your risk of breast cancer:
+
+1. Maintain a healthy weight: Being overweight or obese can increase your risk of breast cancer, especially after menopause. Aim to maintain a healthy weight through a balanced diet and regular exercise.
+
+2. Stay physically active: Engaging in regular physical activity can help lower your risk of breast cancer. Aim for at least 150 minutes of moderate-intensity exercise per week.
+
+3. Limit alcohol consumption: Alcohol consumption is associated with an increased risk of breast cancer. Limiting your alcohol intake can help reduce your risk.
+
+4. Quit smoking: Smoking is linked to a higher risk of breast cancer, especially in premenopausal women. Quitting smoking can have numerous health benefits, including reducing your risk of breast cancer.
+
+5. Breastfeed, if possible: Breastfeeding has been shown to have a protective effect against breast cancer. If you are able to breastfeed, it may help reduce your risk.
+
+6. Know your family history: If you have a family history of breast cancer or certain genetic mutations, you may have a higher risk of developing the disease. Talk to your healthcare provider about genetic testing and screening options.
+
+7. Get regular screenings: Early detection is key in treating breast cancer. Follow recommended guidelines for mammograms and clinical breast exams based on your age and risk factors.
+
+Remember, while these lifestyle changes can help reduce your risk of breast cancer, they do not guarantee prevention. It's important to also be aware of any
+2025-01-19 21:35:53 - INFO - Cosine Similarity: 0.8605
+2025-01-19 21:35:53 - INFO - Response 3: There are several lifestyle changes and preventive measures you can take to help reduce your risk of breast cancer:
+
+1. Maintain a healthy weight: Being overweight or obese can increase your risk of breast cancer, especially after menopause. Aim for a healthy weight through a balanced diet and regular exercise.
+
+2. Stay physically active: Engaging in regular physical activity can help reduce your risk of breast cancer. Aim for at least 150 minutes of moderate-intensity exercise per week.
+
+3. Limit alcohol consumption: Alcohol consumption is linked to an increased risk of breast cancer. If you drink alcohol, try to limit your intake to no more than one drink per day.
+
+4. Quit smoking: Smoking is not only harmful to your overall health but can also increase your risk of breast cancer. If you smoke, seek support to quit.
+
+5. Breastfeed, if possible: Breastfeeding has been shown to reduce the risk of breast cancer, so if you're able to breastfeed, consider doing so.
+
+6. Stay informed: Be aware of your family history of breast cancer and discuss it with your healthcare provider. Certain genetic factors can increase your risk, so knowing your family history can help determine if you need additional screening or preventive measures.
+
+Remember, while these lifestyle changes can help reduce your risk, they cannot guarantee prevention. It's important to also attend regular breast cancer screenings as recommended by your healthcare provider.
+2025-01-19 21:35:53 - INFO - Cosine Similarity: 0.9032
+2025-01-19 21:35:53 - INFO - Best Response: There are several lifestyle changes and preventive measures you can take to help reduce your risk of breast cancer:
+
+1. Maintain a healthy weight: Being overweight or obese can increase your risk of breast cancer, especially after menopause. Aim for a healthy weight through a balanced diet and regular exercise.
+
+2. Stay physically active: Engaging in regular physical activity can help reduce your risk of breast cancer. Aim for at least 150 minutes of moderate-intensity exercise per week.
+
+3. Limit alcohol consumption: Alcohol consumption is linked to an increased risk of breast cancer. If you drink alcohol, try to limit your intake to no more than one drink per day.
+
+4. Quit smoking: Smoking is not only harmful to your overall health but can also increase your risk of breast cancer. If you smoke, seek support to quit.
+
+5. Breastfeed, if possible: Breastfeeding has been shown to reduce the risk of breast cancer, so if you're able to breastfeed, consider doing so.
+
+6. Stay informed: Be aware of your family history of breast cancer and discuss it with your healthcare provider. Certain genetic factors can increase your risk, so knowing your family history can help determine if you need additional screening or preventive measures.
+
+Remember, while these lifestyle changes can help reduce your risk, they cannot guarantee prevention. It's important to also attend regular breast cancer screenings as recommended by your healthcare provider.
+2025-01-19 21:35:53 - INFO - Best Similarity Score: 0.9032
+2025-01-19 21:50:12 - INFO - User Query: hi
+2025-01-19 21:50:12 - INFO - Response 1: Hello HAFSA HAFSA! How can I support you today regarding breast cancer?
+2025-01-19 21:50:12 - INFO - Cosine Similarity: 0.7788
+2025-01-19 21:50:12 - INFO - Response 2: Hello HAFSA HAFSA! How can I support you today regarding breast cancer?
+2025-01-19 21:50:12 - INFO - Cosine Similarity: 0.7788
+2025-01-19 21:50:12 - INFO - Response 3: Hello HAFSA HAFSA! How can I assist you today regarding breast cancer?
+2025-01-19 21:50:12 - INFO - Cosine Similarity: 0.7820
+2025-01-19 21:50:12 - INFO - Best Response: Hello HAFSA HAFSA! How can I assist you today regarding breast cancer?
+2025-01-19 21:50:12 - INFO - Best Similarity Score: 0.7820
+2025-01-19 21:50:25 - INFO - User Query: je suis dépriméé
+2025-01-19 21:50:25 - INFO - Response 1: Je suis là pour vous soutenir. Il est tout à fait normal de ressentir de la tristesse et de la dépression, surtout lorsque l'on fait face à des défis comme un diagnostic de cancer du sein. Il est important de prendre soin de votre santé mentale autant que de votre santé physique. Je vous encourage à parler de vos sentiments avec des proches, à consulter un professionnel de la santé mentale, ou à contacter une association de soutien pour les patients atteints de cancer du sein. N'oubliez pas que vous n'êtes pas seul et que vous méritez d'être soutenu pendant cette période difficile.
+2025-01-19 21:50:25 - INFO - Cosine Similarity: 0.8241
+2025-01-19 21:50:25 - INFO - Response 2: Je suis là pour vous soutenir. Il est tout à fait normal de se sentir déprimé face à une situation difficile comme le cancer du sein. Il est important de ne pas rester seul avec ces émotions. Avez-vous des proches à qui vous pouvez en parler ? Avez-vous envisagé de parler à un professionnel de la santé mentale pour obtenir un soutien supplémentaire ? N'hésitez pas à vous confier et à chercher de l'aide, vous n'êtes pas seul(e) dans cette épreuve.
+2025-01-19 21:50:25 - INFO - Cosine Similarity: 0.8239
+2025-01-19 21:50:25 - INFO - Response 3: Je suis là pour vous soutenir. Il est normal de ressentir de la tristesse et de la dépression lorsqu'on fait face à des difficultés comme le cancer du sein. Il est important de se rappeler que vous n'êtes pas seul et qu'il y a des ressources disponibles pour vous aider. N'hésitez pas à parler à un professionnel de la santé, à un thérapeute ou à un groupe de soutien pour obtenir de l'aide et du soutien. Prendre soin de votre bien-être émotionnel est tout aussi important que de prendre soin de votre santé physique. Vous êtes fort(e) et vous pouvez surmonter cette épreuve.
+2025-01-19 21:50:25 - INFO - Cosine Similarity: 0.8240
+2025-01-19 21:50:25 - INFO - Best Response: Je suis là pour vous soutenir. Il est tout à fait normal de ressentir de la tristesse et de la dépression, surtout lorsque l'on fait face à des défis comme un diagnostic de cancer du sein. Il est important de prendre soin de votre santé mentale autant que de votre santé physique. Je vous encourage à parler de vos sentiments avec des proches, à consulter un professionnel de la santé mentale, ou à contacter une association de soutien pour les patients atteints de cancer du sein. N'oubliez pas que vous n'êtes pas seul et que vous méritez d'être soutenu pendant cette période difficile.
+2025-01-19 21:50:25 - INFO - Best Similarity Score: 0.8241
+2025-01-19 21:51:23 - INFO - User Query: les symptomes du cancer du sein 
+2025-01-19 21:51:23 - INFO - Response 1: Les symptômes du cancer du sein peuvent varier d'une personne à l'autre, mais les signes les plus courants comprennent :
+
+- Une bosse ou une masse palpable dans le sein ou sous le bras
+- Changements de taille, de forme ou d'aspect du sein
+- Douleur ou sensibilité au niveau du sein ou du mamelon
+- Rougeur, épaississement ou irritation de la peau du sein
+- Écoulement anormal du mamelon
+
+Il est important de consulter un médecin si vous remarquez l'un de ces symptômes, mais gardez à l'esprit que ces signes ne signifient pas nécessairement que vous avez un cancer du sein. Seul un professionnel de la santé pourra poser un diagnostic précis après des examens appropriés.
+2025-01-19 21:51:23 - INFO - Cosine Similarity: 0.9204
+2025-01-19 21:51:23 - INFO - Response 2: Les symptômes du cancer du sein peuvent varier d'une personne à l'autre, mais les signes les plus courants incluent la présence d'une bosse ou d'une masse dans le sein ou sous le bras, des changements dans la taille, la forme ou l'apparence du sein, des douleurs au niveau du sein ou du mamelon, des écoulements anormaux du mamelon, des changements de la peau du sein comme des rougeurs, des croûtes ou des capitons. Il est important de consulter un professionnel de santé si vous remarquez l'un de ces symptômes afin d'obtenir un diagnostic précis et un traitement approprié.
+2025-01-19 21:51:23 - INFO - Cosine Similarity: 0.9311
+2025-01-19 21:51:23 - INFO - Response 3: Les symptômes du cancer du sein peuvent varier d'une personne à l'autre, mais voici quelques signes courants à surveiller :
+
+1. Formation d'une masse ou d'une bosse dans le sein ou l'aisselle
+2. Changement de taille ou de forme du sein
+3. Douleur dans le sein ou le mamelon
+4. Peau du sein qui devient rouge, enflée ou ridée
+5. Écoulement anormal du mamelon
+
+Il est important de noter que ces symptômes ne sont pas nécessairement synonymes de cancer du sein, mais il est crucial de consulter un médecin si vous remarquez l'un de ces signes pour un diagnostic et un traitement approprié. Les examens réguliers et la mammographie sont également essentiels pour détecter précocement le cancer du sein.
+2025-01-19 21:51:23 - INFO - Cosine Similarity: 0.9235
+2025-01-19 21:51:23 - INFO - Best Response: Les symptômes du cancer du sein peuvent varier d'une personne à l'autre, mais les signes les plus courants incluent la présence d'une bosse ou d'une masse dans le sein ou sous le bras, des changements dans la taille, la forme ou l'apparence du sein, des douleurs au niveau du sein ou du mamelon, des écoulements anormaux du mamelon, des changements de la peau du sein comme des rougeurs, des croûtes ou des capitons. Il est important de consulter un professionnel de santé si vous remarquez l'un de ces symptômes afin d'obtenir un diagnostic précis et un traitement approprié.
+2025-01-19 21:51:23 - INFO - Best Similarity Score: 0.9311
+2025-01-19 21:52:22 - INFO - User Query: \u0645\u0631\u062d\u0628\u0627
+2025-01-19 21:52:22 - INFO - Response 1: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 21:52:22 - INFO - Cosine Similarity: 0.8996
+2025-01-19 21:52:22 - INFO - Response 2: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 21:52:22 - INFO - Cosine Similarity: 0.8996
+2025-01-19 21:52:22 - INFO - Response 3: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 21:52:22 - INFO - Cosine Similarity: 0.8996
+2025-01-19 21:52:22 - INFO - Best Response: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 21:52:22 - INFO - Best Similarity Score: 0.8996
+2025-01-19 22:28:39 - INFO - User Query: HI
+2025-01-19 22:28:39 - INFO - Response 1: Hello Oumaima! How can I assist you today regarding breast cancer?
+2025-01-19 22:28:39 - INFO - Cosine Similarity: 0.7838
+2025-01-19 22:28:39 - INFO - Response 2: Hello Oumaima! How can I assist you today regarding breast cancer?
+2025-01-19 22:28:39 - INFO - Cosine Similarity: 0.7838
+2025-01-19 22:28:39 - INFO - Response 3: Hello Oumaima! How can I assist you today?
+2025-01-19 22:28:39 - INFO - Cosine Similarity: 0.7996
+2025-01-19 22:28:39 - INFO - Best Response: Hello Oumaima! How can I assist you today?
+2025-01-19 22:28:39 - INFO - Best Similarity Score: 0.7996
+2025-01-19 22:28:53 - INFO - User Query: \u0645\u0631\u062d\u0628\u0627
+2025-01-19 22:28:53 - INFO - Response 1: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 22:28:53 - INFO - Cosine Similarity: 0.8996
+2025-01-19 22:28:53 - INFO - Response 2: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 22:28:53 - INFO - Cosine Similarity: 0.8996
+2025-01-19 22:28:53 - INFO - Response 3: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 22:28:53 - INFO - Cosine Similarity: 0.8996
+2025-01-19 22:28:53 - INFO - Best Response: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-19 22:28:53 - INFO - Best Similarity Score: 0.8996
+2025-01-19 22:29:01 - INFO - User Query: Tell me about breast cancer treatments.
+2025-01-19 22:29:01 - INFO - Response 1: There are several treatment options available for breast cancer, and the most suitable approach depends on the type and stage of the cancer, as well as other individual factors. Common treatments include:
+
+1. Surgery: This can involve a lumpectomy (removing the tumor and a small margin of surrounding tissue) or a mastectomy (removing the entire breast). Lymph node removal may also be necessary.
+
+2. Radiation therapy: High-energy beams are used to target and destroy cancer cells. It is often recommended after surgery to reduce the risk of cancer recurrence.
+
+3. Chemotherapy: Medications are used to kill cancer cells or stop their growth. It may be administered before or after surgery, depending on the specific situation.
+
+4. Hormone therapy: This is used for hormone receptor-positive breast cancers and can help block the effects of estrogen on cancer cells.
+
+5. Targeted therapy: Drugs specifically target certain abnormalities in cancer cells to stop their growth and spread.
+
+6. Immunotherapy: This treatment helps the immune system recognize and attack cancer cells.
+
+Treatment plans are often individualized and may involve a combination of these approaches. It's important to discuss all options with your healthcare team to determine the best course of action for your specific situation.
+2025-01-19 22:29:01 - INFO - Cosine Similarity: 0.8784
+2025-01-19 22:29:01 - INFO - Response 2: There are several treatment options available for breast cancer, and the recommended treatment plan will depend on various factors such as the type and stage of the cancer, as well as the individual's overall health and personal preferences. 
+
+Common treatments for breast cancer may include surgery (such as lumpectomy or mastectomy), radiation therapy, chemotherapy, hormone therapy, targeted therapy, and immunotherapy. 
+
+It is important for individuals diagnosed with breast cancer to work closely with their healthcare team to determine the most appropriate treatment plan for their specific situation. It's also essential to discuss potential side effects, risks, and benefits of each treatment option, as well as any concerns or questions you may have. 
+
+Remember, advancements in breast cancer treatment are continually being made, and many individuals with breast cancer are able to successfully manage their disease and lead fulfilling lives. It's important to stay informed, ask questions, and seek support throughout your treatment journey.
+2025-01-19 22:29:01 - INFO - Cosine Similarity: 0.8835
+2025-01-19 22:29:01 - INFO - Response 3: There are several treatment options for breast cancer, which may be used alone or in combination depending on the stage and type of cancer. Treatment options may include surgery (such as lumpectomy or mastectomy), radiation therapy, chemotherapy, hormone therapy, targeted therapy, and immunotherapy.
+
+The specific treatment plan will be determined by your healthcare team based on factors such as the stage of the cancer, the type of breast cancer, hormone receptor status, HER2 status, and your overall health and personal preferences.
+
+It's important to have open and honest discussions with your healthcare team to understand your treatment options, potential side effects, and expected outcomes. Support from loved ones and healthcare professionals can also be helpful during this challenging time.
+2025-01-19 22:29:01 - INFO - Cosine Similarity: 0.8849
+2025-01-19 22:29:01 - INFO - Best Response: There are several treatment options for breast cancer, which may be used alone or in combination depending on the stage and type of cancer. Treatment options may include surgery (such as lumpectomy or mastectomy), radiation therapy, chemotherapy, hormone therapy, targeted therapy, and immunotherapy.
+
+The specific treatment plan will be determined by your healthcare team based on factors such as the stage of the cancer, the type of breast cancer, hormone receptor status, HER2 status, and your overall health and personal preferences.
+
+It's important to have open and honest discussions with your healthcare team to understand your treatment options, potential side effects, and expected outcomes. Support from loved ones and healthcare professionals can also be helpful during this challenging time.
+2025-01-19 22:29:01 - INFO - Best Similarity Score: 0.8849
+2025-01-20 09:46:56 - INFO - User Query: Bonjour
+2025-01-20 09:46:56 - INFO - Response 1: Bonjour Oumaima! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:46:56 - INFO - Cosine Similarity: 0.8422
+2025-01-20 09:46:56 - INFO - Response 2: Bonjour Oumaima! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:46:56 - INFO - Cosine Similarity: 0.8422
+2025-01-20 09:46:56 - INFO - Response 3: Bonjour Oumaima! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:46:56 - INFO - Cosine Similarity: 0.8422
+2025-01-20 09:46:56 - INFO - Best Response: Bonjour Oumaima! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:46:56 - INFO - Best Similarity Score: 0.8422
+2025-01-20 09:47:12 - INFO - User Query: \u0645\u0631\u062d\u0628\u0627
+2025-01-20 09:47:12 - INFO - Response 1: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:47:12 - INFO - Cosine Similarity: 0.8996
+2025-01-20 09:47:12 - INFO - Response 2: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:47:12 - INFO - Cosine Similarity: 0.8996
+2025-01-20 09:47:12 - INFO - Response 3: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:47:12 - INFO - Cosine Similarity: 0.8996
+2025-01-20 09:47:12 - INFO - Best Response: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:47:12 - INFO - Best Similarity Score: 0.8996
+2025-01-20 09:54:09 - INFO - User Query: hello
+2025-01-20 09:54:09 - INFO - Response 1: Hello Oumaima! How can I assist you today regarding breast cancer?
+2025-01-20 09:54:09 - INFO - Cosine Similarity: 0.7841
+2025-01-20 09:54:09 - INFO - Response 2: Hello Oumaima! How can I support you today regarding breast cancer?
+2025-01-20 09:54:09 - INFO - Cosine Similarity: 0.7801
+2025-01-20 09:54:09 - INFO - Response 3: Hello Oumaima! How can I assist you today?
+2025-01-20 09:54:09 - INFO - Cosine Similarity: 0.7962
+2025-01-20 09:54:09 - INFO - Best Response: Hello Oumaima! How can I assist you today?
+2025-01-20 09:54:09 - INFO - Best Similarity Score: 0.7962
+2025-01-20 09:54:16 - INFO - User Query: Bonjour
+2025-01-20 09:54:16 - INFO - Response 1: Bonjour! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:54:16 - INFO - Cosine Similarity: 0.8492
+2025-01-20 09:54:16 - INFO - Response 2: Bonjour! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:54:16 - INFO - Cosine Similarity: 0.8492
+2025-01-20 09:54:16 - INFO - Response 3: Bonjour! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:54:16 - INFO - Cosine Similarity: 0.8492
+2025-01-20 09:54:16 - INFO - Best Response: Bonjour! Comment puis-je vous aider aujourd'hui?
+2025-01-20 09:54:16 - INFO - Best Similarity Score: 0.8492
+2025-01-20 09:54:26 - INFO - User Query: \u0645\u0631\u062d\u0628\u0627
+2025-01-20 09:54:26 - INFO - Response 1: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:54:26 - INFO - Cosine Similarity: 0.8996
+2025-01-20 09:54:26 - INFO - Response 2: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:54:26 - INFO - Cosine Similarity: 0.8996
+2025-01-20 09:54:26 - INFO - Response 3: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:54:26 - INFO - Cosine Similarity: 0.8996
+2025-01-20 09:54:26 - INFO - Best Response: \u0645\u0631\u062d\u0628\u0627! \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f
+2025-01-20 09:54:26 - INFO - Best Similarity Score: 0.8996
+2025-01-20 09:54:32 - INFO - User Query: What are the symptoms of breast cancer?
+2025-01-20 09:54:32 - INFO - Response 1: Common symptoms of breast cancer may include a lump or thickening in the breast or underarm, changes in the size or shape of the breast, nipple changes such as inversion, discharge or pain, skin changes like redness, dimpling or puckering, and persistent breast pain or discomfort. However, it's important to note that some people with breast cancer may not experience any symptoms at all. Regular breast self-exams and mammograms are crucial for early detection. If you notice any changes in your breasts, it's important to consult with a healthcare provider for further evaluation.
+2025-01-20 09:54:32 - INFO - Cosine Similarity: 0.9180
+2025-01-20 09:54:32 - INFO - Response 2: Common symptoms of breast cancer may include:
+
+1. A lump or thickening in the breast or underarm
+2. Changes in the size, shape, or appearance of the breast
+3. Nipple changes, such as inversion, discharge, or pain
+4. Skin changes on the breast, like redness, dimpling, or puckering
+5. Persistent breast pain or tenderness
+6. Swelling in the breast or armpit
+7. Any unusual changes in the breast that persist over time
+
+It's important to note that not all breast changes are indicative of cancer, but any persistent or concerning symptoms should be evaluated by a healthcare provider for further assessment and diagnosis. Regular breast self-exams and mammograms can aid in early detection.
+2025-01-20 09:54:32 - INFO - Cosine Similarity: 0.9217
+2025-01-20 09:54:32 - INFO - Response 3: Common symptoms of breast cancer may include:
+
+1. A lump or thickening in the breast or underarm
+2. Changes in the size, shape, or appearance of the breast
+3. Nipple changes, such as inversion, discharge, or pain
+4. Skin changes on the breast, such as redness, dimpling, or puckering
+5. Persistent breast or nipple pain
+6. Swelling or a lump in the armpit
+
+It's important to note that some women with breast cancer may not experience any symptoms, which is why regular screening and mammograms are crucial for early detection. If you notice any of these symptoms, it's important to consult with a healthcare provider for further evaluation.
+2025-01-20 09:54:32 - INFO - Cosine Similarity: 0.9236
+2025-01-20 09:54:32 - INFO - Best Response: Common symptoms of breast cancer may include:
+
+1. A lump or thickening in the breast or underarm
+2. Changes in the size, shape, or appearance of the breast
+3. Nipple changes, such as inversion, discharge, or pain
+4. Skin changes on the breast, such as redness, dimpling, or puckering
+5. Persistent breast or nipple pain
+6. Swelling or a lump in the armpit
+
+It's important to note that some women with breast cancer may not experience any symptoms, which is why regular screening and mammograms are crucial for early detection. If you notice any of these symptoms, it's important to consult with a healthcare provider for further evaluation.
+2025-01-20 09:54:32 - INFO - Best Similarity Score: 0.9236
+2025-01-20 09:54:46 - INFO - User Query: Tell me about breast cancer treatments.
+2025-01-20 09:54:46 - INFO - Response 1: There are several treatment options available for breast cancer, and the recommended treatment plan depends on the type and stage of the cancer. Some common treatments include:
+
+1. Surgery: This can involve removing the tumor (lumpectomy) or the entire breast (mastectomy).
+2. Radiation therapy: High-energy rays are used to kill cancer cells.
+3. Chemotherapy: Drugs are used to kill cancer cells or stop their growth.
+4. Hormone therapy: This treatment is used for hormone receptor-positive breast cancers and works by blocking the effects of estrogen or lowering estrogen levels in the body.
+5. Targeted therapy: This type of treatment targets specific molecules involved in cancer growth.
+
+In some cases, a combination of these treatments may be recommended. It's important to discuss all treatment options with your healthcare team to determine the best course of action for your individual situation.
+2025-01-20 09:54:46 - INFO - Cosine Similarity: 0.8824
+2025-01-20 09:54:46 - INFO - Response 2: There are several treatment options available for breast cancer, and the most appropriate treatment plan will depend on the type and stage of the cancer, as well as other individual factors. Common treatment options include:
+
+1. Surgery: This can involve either a lumpectomy (removal of the tumor and a small amount of surrounding tissue) or a mastectomy (removal of the entire breast).
+
+2. Radiation therapy: Uses high-energy rays to target and destroy cancer cells. It is often used after surgery to kill any remaining cancer cells.
+
+3. Chemotherapy: Involves the use of drugs to kill cancer cells, and is typically given either orally or intravenously.
+
+4. Hormone therapy: Used for hormone receptor-positive breast cancers, hormone therapy aims to block the effects of estrogen on breast cancer cells.
+
+5. Targeted therapy: Targets specific molecules involved in the growth and spread of cancer cells, such as HER2-positive breast cancers.
+
+6. Immunotherapy: Stimulates the body's immune system to recognize and destroy cancer cells.
+
+Treatment plans are often individualized and may involve a combination of these options. It's important to discuss with your healthcare team to determine the most appropriate treatment plan for your specific situation.
+2025-01-20 09:54:46 - INFO - Cosine Similarity: 0.8788
+2025-01-20 09:54:46 - INFO - Response 3: Breast cancer treatments can vary depending on the type and stage of the cancer, as well as other individual factors. Common treatments for breast cancer include surgery (lumpectomy or mastectomy), chemotherapy, radiation therapy, targeted therapy, hormone therapy, and immunotherapy. 
+
+The goal of treatment is to remove or destroy the cancer cells, prevent the cancer from spreading or recurring, and improve the patient's quality of life. It's important to work closely with your healthcare team to develop a treatment plan that is tailored to your specific situation. Remember that each person's journey with breast cancer is unique, and there are many resources and support systems available to help you through the process.
+2025-01-20 09:54:46 - INFO - Cosine Similarity: 0.8950
+2025-01-20 09:54:46 - INFO - Best Response: Breast cancer treatments can vary depending on the type and stage of the cancer, as well as other individual factors. Common treatments for breast cancer include surgery (lumpectomy or mastectomy), chemotherapy, radiation therapy, targeted therapy, hormone therapy, and immunotherapy. 
+
+The goal of treatment is to remove or destroy the cancer cells, prevent the cancer from spreading or recurring, and improve the patient's quality of life. It's important to work closely with your healthcare team to develop a treatment plan that is tailored to your specific situation. Remember that each person's journey with breast cancer is unique, and there are many resources and support systems available to help you through the process.
+2025-01-20 09:54:46 - INFO - Best Similarity Score: 0.8950
+2025-01-20 09:54:59 - INFO - User Query: i feel bad
+2025-01-20 09:54:59 - INFO - Response 1: I'm sorry to hear that you're feeling bad. If you're comfortable sharing, can you tell me a bit more about what's going on? Remember, it's important to prioritize your mental and emotional well-being, especially when dealing with a challenging situation like breast cancer. If you need someone to talk to or additional support, please don't hesitate to reach out to a healthcare professional or a support group. You're not alone in this journey.
+2025-01-20 09:54:59 - INFO - Cosine Similarity: 0.7966
+2025-01-20 09:54:59 - INFO - Response 2: I'm sorry to hear that you're feeling this way. If you're comfortable sharing, could you please tell me more about what's been going on? Remember that you're not alone, and there are resources and people who are here to support you.
+2025-01-20 09:54:59 - INFO - Cosine Similarity: 0.7952
+2025-01-20 09:54:59 - INFO - Response 3: I'm sorry to hear that you're feeling this way. It's important to remember that you are not alone and there are people who care about you. If you'd like to talk more about how you're feeling or if there's anything specific on your mind, please feel free to share. Your well-being is important.
+2025-01-20 09:54:59 - INFO - Cosine Similarity: 0.8044
+2025-01-20 09:54:59 - INFO - Best Response: I'm sorry to hear that you're feeling this way. It's important to remember that you are not alone and there are people who care about you. If you'd like to talk more about how you're feeling or if there's anything specific on your mind, please feel free to share. Your well-being is important.
+2025-01-20 09:54:59 - INFO - Best Similarity Score: 0.8044
